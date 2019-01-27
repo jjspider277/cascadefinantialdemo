@@ -1,4 +1,6 @@
-# vuex_example
+# Vuex Example
+
+Simple Vuex Project with Harry Potter API - https://www.potterapi.com
 
 ## Project setup
 ```
